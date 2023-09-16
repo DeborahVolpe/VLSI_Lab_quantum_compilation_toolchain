@@ -1,0 +1,4 @@
+Rx(pi/2) q[0]; average quantum gate error rate: 0.001075650696837016
+Rx(pi/2) q[1]; average quantum gate error rate: 0.0015442553580364837
+Rx(pi/2) q[2]; average quantum gate error rate: 0.0013470332564786691
+Rx(pi/2) q[3]; average quantum gate error rate: 0.00024251349135073763

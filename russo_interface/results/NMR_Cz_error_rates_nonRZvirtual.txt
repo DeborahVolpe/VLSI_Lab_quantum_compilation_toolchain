@@ -1,0 +1,6 @@
+CZ q[0], q[1]; average quantum gate error rate (non RZ virtual): 0.018619752003483536
+CZ q[0], q[2]; average quantum gate error rate (non RZ virtual): 0.10127986900723451
+CZ q[0], q[3]; average quantum gate error rate (non RZ virtual): 0.02675318056794751
+CZ q[1], q[2]; average quantum gate error rate (non RZ virtual): 0.017477876412628657
+CZ q[1], q[3]; average quantum gate error rate (non RZ virtual): 0.06729716305291877
+CZ q[2], q[3]; average quantum gate error rate (non RZ virtual): 0.02065193596924242

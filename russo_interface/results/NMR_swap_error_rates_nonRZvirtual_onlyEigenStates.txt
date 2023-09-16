@@ -1,0 +1,6 @@
+SWAP q[0], q[1]; average quantum gate error rate (non RZ virtual): 0.12461441845941845
+SWAP q[0], q[2]; average quantum gate error rate (non RZ virtual): 0.39120315984675824
+SWAP q[0], q[3]; average quantum gate error rate (non RZ virtual): 0.12999113996228395
+SWAP q[1], q[2]; average quantum gate error rate (non RZ virtual): 0.1364459093362509
+SWAP q[1], q[3]; average quantum gate error rate (non RZ virtual): 0.34847636244448155
+SWAP q[2], q[3]; average quantum gate error rate (non RZ virtual): 0.07858987866826672

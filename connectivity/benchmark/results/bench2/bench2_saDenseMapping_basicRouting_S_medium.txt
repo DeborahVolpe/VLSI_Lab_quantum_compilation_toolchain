@@ -1,0 +1,9 @@
+name=adder_n10.qasm;numNonAllowedInteractions=0;circuitDepth=133;swapCount=77;executionTime=0.001823516444444446;CF_circuitDepth=0.7593984962406015;CF_gateCount=0.6484018264840182;circuitCost=4.260494350609566
+name=dnn_n8.qasm;numNonAllowedInteractions=0;circuitDepth=298;swapCount=90;executionTime=0.0037729848888889434;CF_circuitDepth=0.5771812080536913;CF_gateCount=0.9180327868852459;circuitCost=7.79126163985701
+name=ising_n10.qasm;numNonAllowedInteractions=0;circuitDepth=137;swapCount=60;executionTime=0.0018062222222222275;CF_circuitDepth=0.5109489051094891;CF_gateCount=0.8888888888888888;circuitCost=3.806415551751819
+name=qaoa_n6.qasm;numNonAllowedInteractions=0;circuitDepth=138;swapCount=27;executionTime=0.0010384497777777757;CF_circuitDepth=0.7898550724637681;CF_gateCount=0.9090909090909091;circuitCost=2.8647528923159316
+name=qpe_n9.qasm;numNonAllowedInteractions=0;circuitDepth=113;swapCount=37;executionTime=0.001076792888888889;CF_circuitDepth=0.7876106194690266;CF_gateCount=0.76875;circuitCost=2.5521640807448795
+name=sat_n11.qasm;numNonAllowedInteractions=0;circuitDepth=519;swapCount=235;executionTime=0.006755214222222225;CF_circuitDepth=0.7880539499036608;CF_gateCount=0.7428884026258206;circuitCost=18.617672532995066
+name=simon_n6.qasm;numNonAllowedInteractions=0;circuitDepth=33;swapCount=11;executionTime=0.00036351999999999993;CF_circuitDepth=0.8181818181818182;CF_gateCount=0.8;circuitCost=0.9041850683852718
+name=vqe_uccsd_n6.qasm;numNonAllowedInteractions=0;circuitDepth=1962;swapCount=603;executionTime=0.020356209777777908;CF_circuitDepth=0.7573904179408767;CF_gateCount=0.7909878682842287;circuitCost=48.864837888002135
+name=vqe_uccsd_n8.qasm;numNonAllowedInteractions=0;circuitDepth=9254;swapCount=3429;executionTime=0.1118782577777669;CF_circuitDepth=0.783661119515885;CF_gateCount=0.7591486970569642;circuitCost=245.99559482225752
